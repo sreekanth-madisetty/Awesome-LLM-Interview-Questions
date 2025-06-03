@@ -1,7 +1,7 @@
 # Awesome-LLM-Interview-Questions
 Curated LLM interview questions and answers for data science and AI jobs
 
-List of resources useful for preparing AI or LLM Engineer interview can be found below.
+List of resources useful for preparing AI or LLM Engineer interviews can be found below.
 
 1. [Resources](https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions/tree/main/resources)
 
