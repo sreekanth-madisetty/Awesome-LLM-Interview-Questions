@@ -1,5 +1,7 @@
 # Awesome-LLM-Interview-Questions
-Curated LLM interview questions and answers for data science and AI jobs
+A curated collection of interview questions and answers focused on Large Language Models (LLMs) — covering foundational concepts, cutting-edge advancements, real-world applications, and system-level design.
+
+Whether you're preparing for a Data Scientist, ML Engineer, or AI Researcher role, this repository is designed to help you crack interviews confidently in the rapidly evolving world of Generative AI.
 
 List of resources useful for preparing AI or LLM Engineer interviews can be found below.
 
