@@ -10,7 +10,8 @@
 2. [A Practical Guide to Building Agents by Open AI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
 **Foundational LLM**
-1. [Foundations of Large Language Models (Book)](https://arxiv.org/pdf/2501.09223) 
+1. [Foundations of Large Language Models (Book)](https://arxiv.org/pdf/2501.09223)
+2. Build a Large Language Model (From Scratch) by Sebastian Raschka [Github](https://github.com/rasbt/LLMs-from-scratch), [Youtube](https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11&index=7)
 
 
 
