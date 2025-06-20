@@ -1,17 +1,21 @@
 
-**LLM Resources**
+## LLM Resources
+
 
 **Prompt Engineering**
-1. [Google Prompting Guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
-2. [Prompt Engineering for LLMS by John Berryman and Albert Ziegler](https://zncd.ir/wp-content/uploads/2025/01/John-Berryman-Albert-Ziegler-Prompt-Engineering-for-LLMs_-The-Art-and-Science-of-Building-Large-Language-Model-Based-Applications-2024-OReilly-Media-libgen.li_.pdf)
+1. Google Prompting Guide [PDF](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+2. Prompt Engineering for LLMS by John Berryman and Albert Ziegler [PDF](https://zncd.ir/wp-content/uploads/2025/01/John-Berryman-Albert-Ziegler-Prompt-Engineering-for-LLMs_-The-Art-and-Science-of-Building-Large-Language-Model-Based-Applications-2024-OReilly-Media-libgen.li_.pdf)
 
 **Agent Development**
-1. [Agents companion by Google](https://www.kaggle.com/whitepaper-agent-companion)
-2. [A Practical Guide to Building Agents by Open AI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+1. Agents companion by Google [PDF](https://www.kaggle.com/whitepaper-agent-companion)
+2. A Practical Guide to Building Agents by Open AI [PDF](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
 **Foundational LLM**
-1. [Foundations of Large Language Models (Book)](https://arxiv.org/pdf/2501.09223)
+1. Foundations of Large Language Models (Book) [PDF](https://arxiv.org/pdf/2501.09223)
 2. Build a Large Language Model (From Scratch) by Sebastian Raschka [Github](https://github.com/rasbt/LLMs-from-scratch), [Youtube](https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11&index=7)
+
+**RAG**
+1. Mastering RAG: A comprehensive guide for building enterprise-grade RAG systems by Galileo [PDF](https://media.licdn.com/dms/document/media/v2/D561FAQG1LNjMC1mc1A/feedshare-document-pdf-analyzed/B56ZeOYHK5GQAc-/0/1750440392990?e=1751500800&v=beta&t=CWR_ZpSyQ02d24hi3Kl1YmazYwcZ0ewKzOK9qMNgAGU)  
 
 
 
