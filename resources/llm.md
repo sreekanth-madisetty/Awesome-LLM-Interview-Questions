@@ -9,6 +9,7 @@
 **Agent Development**
 1. Agents companion by Google [PDF](https://www.kaggle.com/whitepaper-agent-companion)
 2. A Practical Guide to Building Agents by Open AI [PDF](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+3. Mastering AI Agents by Galileo [PDF](https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions/blob/main/Docs/Mastering%20AI%20Agents-compressed.pdf) 
 
 **Foundational LLM**
 1. Foundations of Large Language Models (Book) [PDF](https://arxiv.org/pdf/2501.09223)
