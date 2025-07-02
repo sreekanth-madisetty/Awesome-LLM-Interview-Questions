@@ -14,6 +14,7 @@
 **Foundational LLM**
 1. Foundations of Large Language Models (Book) [PDF](https://arxiv.org/pdf/2501.09223)
 2. Build a Large Language Model (From Scratch) by Sebastian Raschka [Github](https://github.com/rasbt/LLMs-from-scratch), [Youtube](https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11&index=7)
+3. LLM Visualization [Portal](https://bbycroft.net/llm)
 
 **RAG**
 1. Mastering RAG: A comprehensive guide for building enterprise-grade RAG systems by Galileo [PDF](https://media.licdn.com/dms/document/media/v2/D561FAQG1LNjMC1mc1A/feedshare-document-pdf-analyzed/B56ZeOYHK5GQAc-/0/1750440392990?e=1751500800&v=beta&t=CWR_ZpSyQ02d24hi3Kl1YmazYwcZ0ewKzOK9qMNgAGU)  
